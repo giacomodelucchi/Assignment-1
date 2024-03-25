@@ -1,0 +1,2 @@
+processori
+schede madre
